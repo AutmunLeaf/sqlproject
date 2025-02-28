@@ -1,4 +1,4 @@
-// https://dbdiagram.io
+https://dbdiagram.io
 
 Table courses {
 id serial [primary key]
